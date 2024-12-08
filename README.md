@@ -9,6 +9,10 @@
 #### - Результаты:
 ![вывод](https://github.com/user-attachments/assets/90813ccc-bd9d-4308-92cd-c126aecf1e99)
 
+![](https://github.com/user-attachments/assets/a619cc60-dc14-4b57-a65f-68038d6534f6)
+
+![](https://github.com/user-attachments/assets/c1fa93d7-6f25-4a51-9731-161017f93c7e)
+
 ### 2. Проанализировать код и сделать кодревью, указав слабые места
 
 Подробнее в [login.php](https://github.com/whynastasya/DVWA-analysis/blob/main/login.php)
