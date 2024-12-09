@@ -1,6 +1,0 @@
-projectKey=dvwa-analysis
-serverUrl=http://localhost:9000
-serverVersion=24.12.0.100206
-dashboardUrl=http://localhost:9000/dashboard?id=dvwa-analysis
-ceTaskId=081215a6-9d2d-4d97-9633-3ac133209873
-ceTaskUrl=http://localhost:9000/api/ce/task?id=081215a6-9d2d-4d97-9633-3ac133209873
